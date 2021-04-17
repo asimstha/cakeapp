@@ -23,7 +23,7 @@ use Cake\Http\Response;
 use Cake\View\Exception\MissingTemplateException;
 
 /**
- * Static content controller
+ * Static content controller a
  *
  * This controller will render views from templates/Pages/
  *
